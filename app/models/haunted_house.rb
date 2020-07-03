@@ -1,1 +1,3 @@
-# Create your HauntedHouse class here
+# Ruby models should inherit from ActiveRecord::Base
+class HauntedHouse < ActiveRecord::Base
+end
